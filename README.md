@@ -1,8 +1,8 @@
 # Anil BORA
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/anilbora/)](https://www.linkedin.com/in/anilbora/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&logoColor=white&link=https://anilbora.com/)](https://anilbora.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/anilbora/)](https://github.com/anilbora/)
+
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/anilbora/)](https://github.com/anlbora/)
 
 ## About Me
 
