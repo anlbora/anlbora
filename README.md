@@ -13,7 +13,7 @@ I am an architect with a passion for merging innovative architectural design wit
 ## Work Experience
 
 ### [**izURET**](https://www.izuret.com/)
-### Software and Architectural Office
+#### Software and Architectural Office
 *September 2022 - Present*
 
 As an architect at izURET, I have been actively involved in:
