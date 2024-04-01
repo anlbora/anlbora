@@ -1,4 +1,70 @@
-# I'm **Anil BORA**, Welcome to my Github profile
-## About me;
-I'm an architect, graduated from **Izmir Institute of Technology** in 2022. I worked in an architectural office for 6 months and now I have been working in a software and architectural office called **izURET** since 2022 September. 
+# Anil BORA
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/anilbora/)](https://www.linkedin.com/in/anilbora/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&logoColor=white&link=https://anilbora.com/)](https://anilbora.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/anilbora/)](https://github.com/anilbora/)
+
+## About Me
+
+I am an architect with a passion for merging innovative architectural design with technology. I graduated from **Izmir Institute of Technology** in 2022 and have since gained valuable experience in both traditional architectural practices and software-based architectural solutions.
+
+---
+
+## Work Experience
+
+### Software and Architectural Office - **izURET**
+*September 2022 - Present*
+
+As an architect at izURET, I have been actively involved in:
+
+- Collaborating with multidisciplinary teams to design and implement architectural projects.
+- Utilizing software tools to enhance design accuracy, efficiency, and visualization.
+- Contributing to the development of architectural software solutions tailored to client needs.
+- Participating in client meetings and presentations to discuss project requirements and design proposals.
+
+### Architectural Office *(Previous Position)*
+*Month Year - September 2022*
+
+During my tenure at the architectural office:
+
+- Assisted senior architects in conceptualizing and developing design plans for various projects.
+- Prepared detailed architectural drawings, specifications, and 3D models.
+- Engaged in site visits to assess project progress and ensure adherence to design specifications.
+- Collaborated with contractors, engineers, and other stakeholders to facilitate smooth project execution.
+
+---
+
+## Education
+
+**Izmir Institute of Technology**  
+*Bachelor of Architecture*  
+*Graduated: 2022*
+
+---
+
+## Skills
+
+- **Architectural Design**: Conceptualization, Drafting, 3D Modeling
+- **Software Proficiency**: AutoCAD, Revit, SketchUp, Adobe Creative Suite
+- **Project Management**: Coordination, Planning, Client Relations
+- **Technical Skills**: Building Information Modeling (BIM), Rendering, Visualization
+- **Communication**: Presentation, Written & Verbal Communication, Team Collaboration
+
+---
+
+## Projects
+
+**[Project Name]**  
+*Role: [Your Role]*  
+*Description: Brief description of the project, your responsibilities, and key achievements.*
+
+**[Project Name]**  
+*Role: [Your Role]*  
+*Description: Brief description of the project, your responsibilities, and key achievements.*
+
+---
+
+## Certifications
+
+- **[Certification Name]** - Issuing Organization, Year
+- **[Certification Name]** - Issuing Organization, Year
