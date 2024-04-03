@@ -6,7 +6,7 @@
 
 ## About Me
 
-I am an architect with a passion for merging innovative architectural design with technology. I graduated from **Izmir Institute of Technology** in 2022 and have since gained valuable experience in both traditional architectural practices and software-based architectural solutions.
+I am an architect with a passion for merging innovative architectural design with technology. I graduated from **Izmir Institute of Technology** in 2022 and have since gained valuable experience in both traditional architectural practices and software-based architectural solutions. I have been studying Python and C# for more than one year now.
 
 ---
 
