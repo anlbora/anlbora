@@ -26,46 +26,9 @@ As an architect at izURET, I have been actively involved in:
 ###### Architectural Office
 *Month Year - September 2022*
 
-During my tenure at the architectural office:
-
-- Assisted senior architects in conceptualizing and developing design plans for various projects.
-- Prepared detailed architectural drawings, specifications, and 3D models.
-- Engaged in site visits to assess project progress and ensure adherence to design specifications.
-- Collaborated with contractors, engineers, and other stakeholders to facilitate smooth project execution.
-
----
-
 ## Education
 
 **Izmir Institute of Technology**  
 *Bachelor of Architecture*  
 *Graduated: 2022*
 
----
-
-## Skills
-
-- **Architectural Design**: Conceptualization, Drafting, 3D Modeling
-- **Software Proficiency**: AutoCAD, Revit, SketchUp, Adobe Creative Suite
-- **Project Management**: Coordination, Planning, Client Relations
-- **Technical Skills**: Building Information Modeling (BIM), Rendering, Visualization
-- **Communication**: Presentation, Written & Verbal Communication, Team Collaboration
-
----
-
-## Projects
-
-**[Project Name]**  
-*Role: [Your Role]*  
-*Description: Brief description of the project, your responsibilities, and key achievements.*
-
-**[Project Name]**  
-*Role: [Your Role]*  
-*Description: Brief description of the project, your responsibilities, and key achievements.*
-
----
-
-## Certifications
-
-- **[Certification Name]** - Issuing Organization, Year
-- **[Certification Name]** - Issuing Organization, Year
