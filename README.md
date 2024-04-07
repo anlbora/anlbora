@@ -46,7 +46,7 @@ I am a software developer with a strong background in architectural design and a
 ---
 <p float="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=anlbora&show_icons=true" alt="anlbora's github stats" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anlborai&layout=compact&hide=html,css" alt="ETop Langs" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anlbora&layout=compact&hide=html,css" alt="ETop Langs" />
 </p>
 
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/anilbora/) or anlbora00@gmail.com for professional inquiries or collaboration opportunities.
