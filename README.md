@@ -24,8 +24,6 @@ I am a software developer with a strong background in architectural design and a
 - Executed Scan-to-BIM and CAD conversion projects.
 - Contributed to the development and customization of architectural software solutions to meet client requirements.
 
----
-
 ### **Unsal Engineering**
 *Architectural Office*  
 *September 2021 - February 2022*
