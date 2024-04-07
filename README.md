@@ -52,4 +52,4 @@ I am a software developer with a strong background in architectural design and a
 
 ---
 
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/anilbora/) or [E-mail](anlbora00@gmail.com) for professional inquiries or collaboration opportunities.
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/anilbora/) or anlbora00@gmail.com for professional inquiries or collaboration opportunities.
