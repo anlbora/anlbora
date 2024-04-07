@@ -8,7 +8,7 @@
 
 ## Professional Summary
 
-I am a software developer with a strong background in architectural design and a keen interest in leveraging technology to create innovative solutions. Having graduated from the **Izmir Institute of Technology** in 2022, I possess a blend of traditional architectural knowledge and modern software development skills. I have over a year of experience in Python and C# programming and am passionate about developing efficient and scalable software solutions.
+I am a software developer with a strong background in architectural design and a keen interest in leveraging technology to create innovative solutions. Having graduated from the **Izmir Institute of Technology** in 2022, I possess a blend of traditional architectural knowledge and modern software development skills. With over a year of experience in Python and C# programming, I am passionate about developing efficient and scalable software solutions.
 
 ---
 
