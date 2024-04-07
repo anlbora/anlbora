@@ -30,10 +30,6 @@ I am a software developer with a strong background in architectural design and a
 *Architectural Office*  
 *September 2021 - February 2022*
 
-#### Responsibilities:
-
-- [Add responsibilities here]
-
 ---
 
 ## Education
@@ -48,7 +44,6 @@ I am a software developer with a strong background in architectural design and a
 
 - **Programming Languages:** Python, C#
 - **Architectural Tools:** Revit, AutoCAD, InDesign
-- **Software Development:** Software Architecture, QA/QC, Scan-to-BIM
 
 ---
 
