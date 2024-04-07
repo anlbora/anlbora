@@ -28,7 +28,7 @@ I am a software developer with a strong background in architectural design and a
 
 ### **Unsal Engineering**
 *Architectural Office*  
-*Month Year - September 2022*
+*September 2021 - February 2022*
 
 #### Responsibilities:
 
