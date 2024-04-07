@@ -19,10 +19,10 @@ I am an architect with a passion for merging innovative architectural design wit
 
 As an architect at izURET, I have been actively involved in:
 
-- Collaborating with multidisciplinary teams to design and implement architectural projects.
-- Utilizing software tools to enhance design accuracy, efficiency, and visualization.
+- Implementing QAQC tasks to various projects in the field of AEC with the softwares such as Revit, Autocad, InDesign
+- Scan to BIM and CAD projects
 - Contributing to the development of architectural software solutions tailored to client needs.
-- Participating in client meetings and presentations to discuss project requirements and design proposals.
+  
 ### [Unsal Engineering](https://www.unsal.com.tr/)
 ###### Architectural Office
 *Month Year - September 2022*
