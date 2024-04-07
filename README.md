@@ -49,4 +49,8 @@ I am a software developer with a strong background in architectural design and a
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anlbora&layout=compact&hide=html,css" alt="ETop Langs" />
 </p>
 
+![trophy](https://github-profile-trophy.vercel.app/?username=anlbora)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anlbora) 
+
+
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/anilbora/) or anlbora00@gmail.com for professional inquiries or collaboration opportunities.
