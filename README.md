@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/anilbora/)](https://www.linkedin.com/in/anilbora/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/anilbora/)](https://github.com/anilbora/)
-[![Website](https://anlbora.github.io/HTML/home.html)
+[![Website](https://anlbora.github.io/IMAGES/AnilBoraLogo.png)](https://anlbora.github.io/HTML/home.html)
 
 ---
 
